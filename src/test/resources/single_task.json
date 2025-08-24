@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Project Proposal",
+  "description": "Submit project proposal document",
+  "dueDate": "15-09-2025",
+  "dueTime": "17:00:00",
+  "userName": "alice123",
+  "courseName": "Intro to Programming",
+  "grade": "75/100",
+  "completed": true
+}

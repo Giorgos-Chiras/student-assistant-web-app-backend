@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "username": "alice123",
+    "age": 20,
+    "email": "alice@example.com",
+    "university": "Harvard University",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": 1,
+        "courseId": "CS101",
+        "name": "Intro to Programming"
+      }
+    ],
+    "tasks": [
+      {
+        "taskId": 1,
+        "taskName": "Project Proposal",
+        "taskCourse": "Intro to Programming"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "bob456",
+    "age": 22,
+    "email": "bob@example.com",
+    "university": "MIT",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": 2,
+        "courseId": "EE202",
+        "name": "Circuit Analysis"
+      }
+    ],
+    "tasks": [
+      {
+        "taskId": 2,
+        "taskName": "Midterm Exam",
+        "taskCourse": "Circuit Analysis"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "charlie789",
+    "age": 21,
+    "email": "charlie@example.com",
+    "university": "Stanford University",
+    "major": "Physics",
+    "courses": [
+      {
+        "id": 3,
+        "courseId": "PH301",
+        "name": "Quantum Mechanics"
+      }
+    ],
+    "tasks": [
+      {
+        "taskId": 3,
+        "taskName": "Final Presentation",
+        "taskCourse": "Quantum Mechanics"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "dana001",
+    "age": 23,
+    "email": "dana@example.com",
+    "university": "UC Berkeley",
+    "major": "Mathematics",
+    "courses": [
+      {
+        "id": 4,
+        "courseId": "MATH210",
+        "name": "Linear Algebra"
+      }
+    ],
+    "tasks": []
+  },
+  {
+    "id": 5,
+    "username": "eric007",
+    "age": 19,
+    "email": "eric@example.com",
+    "university": "Oxford University",
+    "major": "Philosophy",
+    "courses": [
+      {
+        "id": 5,
+        "courseId": "PHIL100",
+        "name": "Intro to Philosophy"
+      }
+    ],
+    "tasks": []
+  }
+]

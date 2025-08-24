@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "courseId": "CS101",
+  "name": "Intro to Programming",
+  "ects": 6,
+  "professorName": "John Smith"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@university.edu",
+    "officeNumber": "B-101",
+    "courses": [
+      {
+        "id": 1,
+        "courseId": "CS101",
+        "name": "Intro to Programming",
+        "ects": 6
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lisa Williams",
+    "email": "lisa.williams@university.edu",
+    "officeNumber": "C-202",
+    "courses": [
+      {
+        "id": 2,
+        "courseId": "EE202",
+        "name": "Circuit Analysis",
+        "ects": 5
+      },
+      {
+        "id": 4,
+        "courseId": "MATH210",
+        "name": "Linear Algebra",
+        "ects": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Michael Jordan",
+    "email": "michael.jordan@university.edu",
+    "officeNumber": "D-303",
+    "courses": [
+      {
+        "id": 3,
+        "courseId": "PH301",
+        "name": "Quantum Mechanics",
+        "ects": 7
+      }
+    ]
+  }
+]

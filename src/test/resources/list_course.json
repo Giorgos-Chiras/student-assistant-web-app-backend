@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "courseId": "CS101",
+    "name": "Intro to Programming",
+    "ects": 6,
+    "professorName": "John Smith"
+  },
+  {
+    "id": 2,
+    "courseId": "EE202",
+    "name": "Circuit Analysis",
+    "ects": 5,
+    "professorName": "Lisa Williams"
+  },
+  {
+    "id": 3,
+    "courseId": "PH301",
+    "name": "Quantum Mechanics",
+    "ects": 7,
+    "professorName": "Michael Jordan"
+  },
+  {
+    "id": 4,
+    "courseId": "MATH210",
+    "name": "Linear Algebra",
+    "ects": 5,
+    "professorName": "Lisa Williams"
+  },
+  {
+    "id": 5,
+    "courseId": "PHIL100",
+    "name": "Intro to Philosophy",
+    "ects": 4,
+    "professorName": "No Professor"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "John Smith",
+  "email": "john.smith@university.edu",
+  "officeNumber": "B-101",
+  "courses": [
+    {
+      "id": 1,
+      "courseId": "CS101",
+      "name": "Intro to Programming",
+      "ects": 6
+    }
+  ]
+}

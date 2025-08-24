@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "username": "alice123",
+  "age": 20,
+  "email": "alice@example.com",
+  "university": "Harvard University",
+  "major": "Computer Science",
+  "courses": [
+    {
+      "id": 1,
+      "courseId": "CS101",
+      "name": "Intro to Programming"
+    }
+  ],
+  "tasks": [
+    {
+      "taskId": 1,
+      "taskName": "Project Proposal",
+      "taskCourse": "Intro to Programming"
+    }
+  ]
+}

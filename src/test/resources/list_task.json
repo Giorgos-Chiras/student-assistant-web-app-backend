@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Project Proposal",
+    "description": "Submit project proposal document",
+    "dueDate": "15-09-2025",
+    "dueTime": "17:00:00",
+    "userName": "alice123",
+    "courseName": "Intro to Programming",
+    "grade": "75/100",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "name": "Midterm Exam",
+    "description": "Complete midterm exam covering chapters 1-5",
+    "dueDate": "10-10-2025",
+    "dueTime": "09:30:00",
+    "userName": "bob456",
+    "courseName": "Circuit Analysis",
+    "grade": "",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "name": "Final Presentation",
+    "description": "Prepare slides and present project",
+    "dueDate": "05-12-2025",
+    "dueTime": "14:00:00",
+    "userName": "charlie789",
+    "courseName": "Quantum Mechanics",
+    "grade": "",
+    "completed": false
+  }
+]
